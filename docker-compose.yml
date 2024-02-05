@@ -6,3 +6,27 @@ services:
       - 8080:80
     volumes:
       - ./src/:/var/www/html/
+  mysql:
+    image: mysql:8.0.36-debian
+    environment:
+      MYSQL_DATABASE: php_practice_db
+      MYSQL_ROOT_PASSWORD: pass
+      MYSQL_USER: renya
+      MYSQL_PASSWORD: renya
+      TZ: Asia/Tokyo
+    ports:
+      - 3306:3306
+    volumes:
+      - ./mysql:/var/lib/mysql
+  phpmyadmin:
+    image: phpmyadmin
+    restart: always
+    depends_on:
+      - mysql
+    environment:
+      - PMA_ARBITRARY=1
+      - PMA_HOSTS=mysql
+      - PMA_USER=renya
+      - PMA_PASSWORD=renya
+    ports:
+      - 4040:80
