@@ -43,6 +43,38 @@
                 <a class="intro__link" href="./practice/chapter6.php">chapter6.php</a>
                 <p class="intro__discription">if文</p>
             </li>
+            <li class="order-list__item intro">
+                <a class="intro__link" href="./practice/chapter7.php">chapter7.php</a>
+                <p class="intro__discription">if文</p>
+            </li>
+            <li class="order-list__item intro">
+                <a class="intro__link" href="./practice/chapter8.php">chapter8.php</a>
+                <p class="intro__discription">if-else文</p>
+            </li>
+            <li class="order-list__item intro">
+                <a class="intro__link" href="./practice/chapter9.php">chapter9.php</a>
+                <p class="intro__discription">連想配列について</p>
+            </li>
+            <li class="order-list__item intro">
+                <a class="intro__link" href="./practice/chapter10.php">chapter10.php</a>
+                <p class="intro__discription">連想配列について</p>
+            </li>
+            <li class="order-list__item intro">
+                <a class="intro__link" href="./practice/chapter11.php">chapter11.php</a>
+                <p class="intro__discription">for文</p>
+            </li>
+            <li class="order-list__item intro">
+                <a class="intro__link" href="./practice/chapter12.php">chapter12.php</a>
+                <p class="intro__discription">繰り返し処理</p>
+            </li>
+            <li class="order-list__item intro">
+                <a class="intro__link" href="./practice/chapter13.php">chapter13.php</a>
+                <p class="intro__discription">関数</p>
+            </li>
+            <li class="order-list__item intro">
+                <a class="intro__link" href="./practice/chapter14.php">chapter14.php</a>
+                <p class="intro__discription">クラスとオブジェクト</p>
+            </li>
 
         </ol>
         <div class="refarence">
