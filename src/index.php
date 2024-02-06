@@ -20,25 +20,30 @@
                 <p class="intro__discription">phpでhello worldを表示するプログラムです</p>
             </li>
             <li class="order-list__item intro">
-                <a class="intro__link" href="./practice/hello.php">hello.php</a>
-                <p class="intro__discription">phpでhello worldを表示するプログラムです</p>
+                <a class="intro__link" href="./practice/chapter1.php">chapter1.php</a>
+                <p class="intro__discription">echoについて</p>
             </li>
             <li class="order-list__item intro">
-                <a class="intro__link" href="./practice/hello.php">hello.php</a>
-                <p class="intro__discription">phpでhello worldを表示するプログラムです</p>
+                <a class="intro__link" href="./practice/chapter2.php">chapter2.php</a>
+                <p class="intro__discription">変数について</p>
             </li>
             <li class="order-list__item intro">
-                <a class="intro__link" href="./practice/hello.php">hello.php</a>
-                <p class="intro__discription">phpでhello worldを表示するプログラムです</p>
+                <a class="intro__link" href="./practice/chapter3.php">chapter3.php</a>
+                <p class="intro__discription">データ型について</p>
             </li>
             <li class="order-list__item intro">
-                <a class="intro__link" href="./practice/hello.php">hello.php</a>
-                <p class="intro__discription">phpでhello worldを表示するプログラムです</p>
+                <a class="intro__link" href="./practice/chapter4.php">chapter4.php</a>
+                <p class="intro__discription">基本データ型について</p>
             </li>
             <li class="order-list__item intro">
-                <a class="intro__link" href="./practice/hello.php">hello.php</a>
-                <p class="intro__discription">phpでhello worldを表示するプログラムです</p>
+                <a class="intro__link" href="./practice/chapter5.php">chapter5.php</a>
+                <p class="intro__discription">NULL型とキャスト演算</p>
             </li>
+            <li class="order-list__item intro">
+                <a class="intro__link" href="./practice/chapter6.php">chapter6.php</a>
+                <p class="intro__discription">if文</p>
+            </li>
+
         </ol>
         <div class="refarence">
             <a target="blank" href="https://www.youtube.com/watch?v=HNHjpmdPFNU">参考動画</a>
